@@ -5,7 +5,7 @@
 # VIADE EN3A
 
 Óscar Sánchez Campo
-This change is in branch new_feature
+This change is in branch master
 
 This repository contains a skeleton of the VIADE project.
 
