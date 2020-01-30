@@ -6,6 +6,7 @@
 
 Óscar Sánchez Campo
 This change is in branch master
+This change is in branch new_feature2
 
 This repository contains a skeleton of the VIADE project.
 
